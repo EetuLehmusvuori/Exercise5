@@ -1,0 +1,16 @@
+body {
+    background-color: tan;
+}
+h1 {
+    color: tomato;
+}
+h3 {
+    color: darkblue;
+}
+p {
+   font-weight: bold;
+   font-size: large;
+}
+h6 {
+    font-weight: bolder;
+}
